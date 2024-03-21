@@ -1,0 +1,26 @@
+{
+  "name": "vite-environment-info",
+  "version": "1.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc ."
+  },
+  "keywords": ["vite", "commit-hash"],
+  "author": "Jithin Sha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Waterloo/vite-environment-info"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3",
+    "vite": "^5.2.2"
+  },
+  "peerDependencies": {
+    "vite": "^5.2.2"
+  },
+  "homepage": "https://github.com/Waterloo/vite-environment-info"
+}
